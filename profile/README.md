@@ -4,7 +4,6 @@
 </h1>
 <div>
     <h2>✍️ 프로젝트 개요</h2>
-    <hr>
     프로젝트명: PawLink<br>
     프로젝트 기간: 2025.11.7 ~ ing<br>
     프로젝트 형태: GDG-on-Campus-SKHU Growthon<br>
