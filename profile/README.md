@@ -1,5 +1,5 @@
 #  <center>PawLink</center>
- <img src="./image/KakaoTalk_Photo_2025-11-18-01-17-11.png" width="100" height="100" align="center"/>
+<center><img src="./image/KakaoTalk_Photo_2025-11-18-01-17-11.png" width="100" height="100"/></center>
 <div>
     <h2>✍️ 프로젝트 개요</h2>
     프로젝트명: PawLink<br>
